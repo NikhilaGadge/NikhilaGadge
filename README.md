@@ -3,6 +3,11 @@
 
 🌱 I’m currently specializing *LLM, Deep learning, NLP*
 
+<img width="1438" height="790" alt="image" src="https://github.com/user-attachments/assets/885cb4fe-6107-4e9e-abed-0736217185e5" />
+
+
+
+
 📫 How to reach me *www.linkedin.com/in/nikhila-gadge*
 
 <h7 align="left">⚡ *Coffee, Coding and Cats* </h7>
